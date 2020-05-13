@@ -9,6 +9,10 @@ amazon:
 google:
   name: Google
   icon: icon-google
+google-scholar:
+  name: Google Scholar
+  icon: icon-google
+  prepend: 'https://scholar.google.com/citations?user='
 google-plus:
   name: Google+
   icon: icon-google-plus
