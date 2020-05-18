@@ -20,7 +20,7 @@ Office: WFH
 </div>
 </div>
 
-I recently graduated from my Ph.D. program in [Computer Science](http://cs.illinois.edu/) at the [University of Illinois, Urbana Champaign (UIUC)](http://illinois.edu/) in May 2020, where I worked with [Prof. Derek Hoiem](http://dhoiem.cs.illinois.edu/) on computer vision and machine learning. I will be joining Amazon’s Rekognition team in 2020 fall -- as long as COVID-19 permits, that is. My Ph.D. defense recording, thanks to the same pandemic, is [[here](https://drive.google.com/open?id=1vzBhrk580MLdoRceNp1YHEyk44qRoTAF)]. I am working on topics related to transfer learning and continual learning in computer vision.
+I recently graduated from my Ph.D. program in [Computer Science](http://cs.illinois.edu/) at the [University of Illinois, Urbana Champaign (UIUC)](http://illinois.edu/) in May 2020, where I worked with [Prof. Derek Hoiem](http://dhoiem.cs.illinois.edu/) on computer vision and machine learning. I will be joining Amazon’s Rekognition team in 2020 fall -- as long as COVID-19 permits, that is. My Ph.D. defense recording, thanks to the same pandemic, is here [[GDrive](https://drive.google.com/open?id=1vzBhrk580MLdoRceNp1YHEyk44qRoTAF)] [[OneDrive](https://1drv.ms/u/s!AtnPgzBCmDQvizYDvlMvJzUmHn_o?e=aUdztr)]. I am working on topics related to transfer learning and continual learning in computer vision.
 
 My résumé can be found here [[Résumé](/resume/)] (updated Apr. 2020).
 
