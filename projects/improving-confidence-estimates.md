@@ -38,7 +38,7 @@ Intuitively, unfamiliarity should lead to lack of confidence. In reality, curren
 
 Li, Zhizhong, and Hoiem, Derek. "Improving Confidence Estimates for Unfamiliar Examples." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 
-[[PDF](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Slides](/assets/pdf/confidence_5min_slides.pdf){:target="_blank"}] \| [[Oral](/assets/mp4/confidence_5min.mp4){:target="_blank"}]
+[[PDF](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Slides](/assets/pdf/confidence_5min_slides.pdf){:target="_blank"}] \| [[Oral](/assets/mp4/confidence_5min.mp4){:target="_blank"}] | [[Code](https://github.com/lizhitwo/ConfidenceEstimates){:target="_blank"}]
 
 <small style="color: #7f0000">
 Note: a previous arXiv version (v3) included erroneous results for T-scaling, where novel samples are mistakenly included in the validation set for calibration. Please disregard the results of that version.
@@ -49,9 +49,10 @@ Note: a previous arXiv version (v3) included erroneous results for T-scaling, wh
 
 ~~~bibtex
 @inproceedings{li2020improving,
-  title={Improving Confidence Estimates for Unfamiliar Examples.},
+  title={Improving Confidence Estimates for Unfamiliar Examples},
   author={Li, Zhizhong and Hoiem, Derek},
-  booktitle={Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2686--2695},
   year={2020}
 }
 ~~~
