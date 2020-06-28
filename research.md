@@ -48,7 +48,7 @@ To appear in CVPR 2020 (oral).
 <br>
 To appear in CVPR 2020 (oral).
 <br>
-\[[arXiv](https://arxiv.org/abs/1804.03166){:target="_blank"}] | [[Project](/projects/improving-confidence-estimates)]
+\[[arXiv](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Project](/projects/improving-confidence-estimates)] \| [[Code](https://github.com/lizhitwo/ConfidenceEstimates){:target="_blank"}]
 </div>
 </div>
 
