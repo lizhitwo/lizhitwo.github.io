@@ -28,7 +28,7 @@ image: /assets/img/blog/hydejack-8.png
 #### [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://github.com/NVlabs/DeepInversion){:target="_blank"}
 Hongxu Yin, Pavlo Molchanov, *Zhizhong Li*, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz.
 <br>
-To appear in CVPR 2020 (oral).
+In CVPR 2020 (oral).
 <br>
 \[[arXiv](https://arxiv.org/abs/1912.08795){:target="_blank"}] | [[Project](https://github.com/NVlabs/DeepInversion){:target="_blank"}] | [[Code](https://github.com/NVlabs/DeepInversion){:target="_blank"}]
 </div>
@@ -46,7 +46,7 @@ To appear in CVPR 2020 (oral).
 #### [Improving Confidence Estimates for Unfamiliar Examples](/projects/improving-confidence-estimates)
 *Zhizhong Li*, Derek Hoiem.
 <br>
-To appear in CVPR 2020 (oral).
+In CVPR 2020 (oral).
 <br>
 \[[arXiv](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Project](/projects/improving-confidence-estimates)] \| [[Code](https://github.com/lizhitwo/ConfidenceEstimates){:target="_blank"}]
 </div>
