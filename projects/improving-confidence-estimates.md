@@ -23,10 +23,7 @@ hide_description: true
 
 [Derek Hoiem](https://dhoiem.cs.illinois.edu/){:target="_blank"}
 
-<video width="640" controls markdown="1">
-  <source src="/assets/mp4/confidence_5min.mp4" type="video/mp4">
-Your browser does not support the video tag. Download the video [here](/assets/mp4/confidence_5min.mp4).
-</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VjNvezAhXx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Abstract
