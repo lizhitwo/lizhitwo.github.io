@@ -30,7 +30,7 @@ Hongxu Yin, Pavlo Molchanov, *Zhizhong Li*, Jose M. Alvarez, Arun Mallya, Derek 
 <br>
 In CVPR 2020 (oral).
 <br>
-\[[arXiv](https://arxiv.org/abs/1912.08795){:target="_blank"}] | [[Project](https://github.com/NVlabs/DeepInversion){:target="_blank"}] | [[Code](https://github.com/NVlabs/DeepInversion){:target="_blank"}]
+\[[arXiv](https://arxiv.org/abs/1912.08795){:target="_blank"}] \| [[Project](https://github.com/NVlabs/DeepInversion){:target="_blank"}] \| [[Code](https://github.com/NVlabs/DeepInversion){:target="_blank"}] \| [[Video](https://www.youtube.com/watch?v=_oho5M8aNhY){:target="_blank"}]
 </div>
 </div>
 
@@ -48,7 +48,7 @@ In CVPR 2020 (oral).
 <br>
 In CVPR 2020 (oral).
 <br>
-\[[arXiv](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Project](/projects/improving-confidence-estimates)] \| [[Code](https://github.com/lizhitwo/ConfidenceEstimates){:target="_blank"}]
+\[[arXiv](https://arxiv.org/abs/1804.03166){:target="_blank"}] \| [[Project](/projects/improving-confidence-estimates)] \| [[Code](https://github.com/lizhitwo/ConfidenceEstimates){:target="_blank"}] \| [[video](https://www.youtube.com/watch?v=VjNvezAhXx4){:target="_blank"}]
 </div>
 </div>
 
