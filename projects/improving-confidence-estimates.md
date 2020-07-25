@@ -23,7 +23,10 @@ hide_description: true
 
 [Derek Hoiem](https://dhoiem.cs.illinois.edu/){:target="_blank"}
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VjNvezAhXx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[MP4](/assets/mp4/confidence_5min.mp4)
 
 
 ### Abstract
