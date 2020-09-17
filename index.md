@@ -20,9 +20,9 @@ Office: WFH
 </div>
 </div>
 
-I recently graduated from my Ph.D. program in [Computer Science](http://cs.illinois.edu/) at the [University of Illinois, Urbana Champaign (UIUC)](http://illinois.edu/) in May 2020, where I worked with [Prof. Derek Hoiem](http://dhoiem.cs.illinois.edu/) on computer vision and machine learning. I will be joining Amazon’s Rekognition team in 2020 fall -- as long as COVID-19 permits, that is. My Ph.D. defense recording, thanks to the same pandemic, is here [[GDrive](https://drive.google.com/open?id=1vzBhrk580MLdoRceNp1YHEyk44qRoTAF)] [[OneDrive](https://1drv.ms/u/s!AtnPgzBCmDQvizYDvlMvJzUmHn_o?e=aUdztr)][[slides](/assets/pdf/Zhizhong_Defense_0325.pdf)]. I am working on topics related to transfer learning and continual learning in computer vision.
+I recently joined Amazon’s Rekognition team in July 2020 to work on [Custom Labels](https://aws.amazon.com/rekognition/custom-labels-features/). I graduated from my Ph.D. program in [Computer Science](http://cs.illinois.edu/) at the [University of Illinois, Urbana Champaign (UIUC)](http://illinois.edu/) in May 2020. During my Ph.D. years, I worked with [Prof. Derek Hoiem](http://dhoiem.cs.illinois.edu/) on computer vision and machine learning. My Ph.D. defense recording, thanks to the same pandemic, is here [[GDrive](https://drive.google.com/open?id=1vzBhrk580MLdoRceNp1YHEyk44qRoTAF)] [[OneDrive](https://1drv.ms/u/s!AtnPgzBCmDQvizYDvlMvJzUmHn_o?e=aUdztr)][[slides](/assets/pdf/Zhizhong_Defense_0325.pdf)]. I am working on topics related to transfer learning and continual learning in computer vision.
 
-My résumé can be found here [[Résumé](/resume/)] (updated Apr. 2020).
+My résumé can be found here [[Résumé](/resume/)] (updated Sep. 2020).
 
 ### Research Interests
 
@@ -40,7 +40,7 @@ Before coming to UIUC, I completed an MS in the [Robotics Institute](http://ri.c
 <a id="note"></a>
 \* My first name can be pronunced “Gee-Jong” and rhymes with oolong. Most people just call me “Zee”. My Chinese name is 李之仲.
 
-\* Not to be confused with [Zhizhong Li (李治中) from CUHK](https://zhizhong.li/).
+\* Not to be confused with [Zhizhong Li (李治中) from CUHK](https://zhizhong.li/), [Zhizhong Li (李志忠) from THU](http://www.ie.tsinghua.edu.cn/zzli/indexe.htm), or [Zhizhong Li from MSKCC](https://synapse.mskcc.org/synapse/people/9528-Zhizhong_Li).
 
 
 
