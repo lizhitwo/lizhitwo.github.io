@@ -16,7 +16,7 @@ hide_description: true
 # image: /assets/img/Zhizhong_photo.jpg
 ---
 
-If the PDF does not render correctly, please [click here](/assets/Zhizhong_Resume_long.pdf) to download.
+If the PDF does not render correctly, please [click here](/assets/Zhizhong_Resume_long.pdf) to download. A shorter [1-page version](/assets/Zhizhong_Resume_short.pdf) is also available.
 <div style="width: 100%; height:0; padding-top: 130%; position:relative">
 <object data="/assets/Zhizhong_Resume_long.pdf#toolbar=0&navpanes=0&scrollbar=0&statusbar=0&messages=0&scrollbar=0" type="application/pdf" style="width: 100%; height: 100%; top:0; left:0; position: absolute">
     <iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fzhizhongli.vision%2Fassets%2FZhizhong_Resume_long.pdf&embedded=true"></iframe>
